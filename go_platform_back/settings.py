@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'go_platform_back.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'go_palatform_db',
+        'NAME': 'go_platform_db',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': '127.0.0.1',
