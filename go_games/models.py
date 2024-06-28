@@ -1,4 +1,5 @@
 from django.db import models
+from accounts.models import CustomUser
 
 # Create your models here.
 class Event(models.Model):
@@ -42,3 +43,4 @@ class Tsumego(models.Model):
     description = models.TextField(null=True)
     status = models.BooleanField(default=False) # brouillon ou publié
     difficulty = models.CharField(max_length=3, choices=Difficulties.choices, null=True)
+    submitter = models.ForeignKey(CustomUser, on_delete=models.SET_NULL, null=True)
