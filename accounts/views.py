@@ -34,7 +34,7 @@ def signup_user(request):
         user.set_password(request.data['password'])
         user.save()
         token = Token.objects.create(user=user)
-        return Response({"token": token.key, "user": serializer.data})
+        return Response({"token": token.key, "user": serializer.data}, status=status.HTTP_201_CREATED)
     return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 @api_view(["POST"])
@@ -55,3 +55,11 @@ def logout_user(request):
         return Response({"detail": "Déconnecté"}, status=status.HTTP_200_OK)
     except Token.DoesNotExist:
         return Response({"detail": "Token introuvable"}, status=status.HTTP_400_BAD_REQUEST)
+    
+class CustomUserList(generics.ListAPIView):
+    queryset = CustomUser.objects.all()
+    serializer_class = CustomUserSerializer
+
+class CustomUserDetail(generics.RetrieveUpdateDestroyAPIView):
+    queryset = CustomUser.objects.all()
+    serializer_class = CustomUserSerializer
