@@ -14,7 +14,7 @@ class PermissionSerializer(serializers.ModelSerializer):
 class CustomUserSerializer(serializers.ModelSerializer):
     class Meta:
         model = CustomUser
-        fields = ['id', 'email', 'password', 'username', 'is_superuser', 'is_staff', 'role']
+        fields = ['id', 'email', 'username', 'is_superuser', 'is_staff', 'role']
 
 class RolePemissionSerializer(serializers.ModelSerializer):
     class Meta:
