@@ -10,15 +10,15 @@ from django.shortcuts import get_object_or_404
 
 # Create your views here.
 class RoleViewSet(viewsets.ModelViewSet):
-    queryset = Role.objects.all()
+    queryset = Role.objects.all().order_by('id') 
     serializer_class = RoleSerializer
 
 class PermissionViewSet(viewsets.ModelViewSet):
-    queryset = Permission.objects.all()
+    queryset = Permission.objects.all().order_by('id') 
     serializer_class = PermissionSerializer
 
 class Role_PermissionList(generics.ListCreateAPIView):
-    queryset = Role_Permission.objects.all()
+    queryset = Role_Permission.objects.all().order_by('id') 
     serializer_class = RolePemissionSerializer
 
 class Role_PermissionDetail(generics.RetrieveUpdateDestroyAPIView):
@@ -57,7 +57,7 @@ def logout_user(request):
         return Response({"detail": "Token introuvable"}, status=status.HTTP_400_BAD_REQUEST)
     
 class CustomUserList(generics.ListAPIView):
-    queryset = CustomUser.objects.all()
+    queryset = CustomUser.objects.all().order_by('id') 
     serializer_class = CustomUserSerializer
 
 class CustomUserDetail(generics.RetrieveUpdateDestroyAPIView):

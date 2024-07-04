@@ -30,7 +30,7 @@ class Move(models.Model):
     num_move = models.IntegerField()
     color = models.CharField(max_length=1)
     position = models.CharField(max_length=2)
-    game = models.ForeignKey(Game, on_delete=models.CASCADE)
+    game = models.ForeignKey(Game, on_delete=models.CASCADE, related_name='moves')
 
 class Difficulties(models.TextChoices):
     ELEMENTARY = 'ELM', 'Elementary'
