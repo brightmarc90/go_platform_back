@@ -12,15 +12,24 @@ class PlayerSerializer(serializers.ModelSerializer):
         model = Player
         fields = ['id', 'name']
 
-class GameSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = Game
-        fields = '__all__'
-    
 class MoveSerializer(serializers.ModelSerializer):
     class Meta:
         model = Move
         fields = ['id', 'num_move', 'color', 'position', 'game']
+
+class GameListSerializer(serializers.ModelSerializer):
+    event = EventSerializer(read_only=True)
+    black_player = PlayerSerializer(read_only=True)
+    white_player = PlayerSerializer(read_only=True)
+    moves = MoveSerializer(many=True, read_only=True)
+    class Meta:
+        model = Game
+        fields = '__all__'
+
+class GameSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Game
+        fields = '__all__'
 
 class TsumegoListSerializer(serializers.ModelSerializer):
     submitter = CustomUserSerializer(read_only=True)
