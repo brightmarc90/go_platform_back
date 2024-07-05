@@ -1,0 +1,3238 @@
+[
+    {
+        "AB": [
+            "ba",
+            "da",
+            "fa",
+            "fb",
+            "ac",
+            "bc",
+            "cc",
+            "dc",
+            "ec",
+            "fc"
+        ],
+        "AW": [
+            "ea",
+            "ab",
+            "bb",
+            "cb",
+            "db",
+            "eb"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ca",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "eb",
+            "fb",
+            "bc",
+            "cc",
+            "dc",
+            "be"
+        ],
+        "AW": [
+            "ba",
+            "ea",
+            "ab",
+            "bb",
+            "cb",
+            "db"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "da",
+                "Correct.",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "bb",
+            "cb",
+            "db",
+            "eb"
+        ],
+        "AW": [
+            "bc",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "gc",
+            "hc",
+            "be"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ab",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "fb",
+            "hb",
+            "bc",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "be"
+        ],
+        "AW": [
+            "ab",
+            "bb",
+            "cb",
+            "db",
+            "eb"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ba",
+                "",
+                ""
+            ],
+            [
+                "B",
+                "ea",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "fa",
+            "ab",
+            "bb",
+            "cb",
+            "db",
+            "eb"
+        ],
+        "AW": [
+            "ca",
+            "ea",
+            "fb",
+            "gb",
+            "ac",
+            "bc",
+            "cc",
+            "dc",
+            "ec"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ba",
+                "Correct.",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ea",
+            "fb",
+            "gb",
+            "bc",
+            "cc",
+            "dc",
+            "ec",
+            "be"
+        ],
+        "AW": [
+            "ba",
+            "fa",
+            "ab",
+            "bb",
+            "cb",
+            "db",
+            "eb"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "da",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "gb",
+            "bc",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "hc",
+            "be"
+        ],
+        "AW": [
+            "ab",
+            "bb",
+            "cb",
+            "db",
+            "eb"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ba",
+                "",
+                ""
+            ],
+            [
+                "B",
+                "ea",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "fa",
+            "gb",
+            "hb",
+            "bc",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "be"
+        ],
+        "AW": [
+            "ga",
+            "ab",
+            "bb",
+            "cb",
+            "db",
+            "eb",
+            "fb"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ba",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ea",
+            "cb",
+            "db",
+            "eb",
+            "cc",
+            "bd",
+            "cd"
+        ],
+        "AW": [
+            "fa",
+            "fb",
+            "bc",
+            "dc",
+            "ec",
+            "gc",
+            "ad",
+            "dd",
+            "be",
+            "ce",
+            "de"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ab",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "fa",
+            "fb",
+            "bc",
+            "dc",
+            "ec",
+            "gc",
+            "bd",
+            "cd",
+            "be",
+            "de"
+        ],
+        "AW": [
+            "ea",
+            "bb",
+            "cb",
+            "db",
+            "eb",
+            "ac",
+            "cc"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ab",
+                "",
+                ""
+            ],
+            [
+                "B",
+                "ca",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "fb",
+            "hb",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "bd",
+            "ce"
+        ],
+        "AW": [
+            "bb",
+            "cb",
+            "db",
+            "eb",
+            "bc"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ba",
+                "",
+                ""
+            ],
+            [
+                "B",
+                "ea",
+                "",
+                ""
+            ],
+            [
+                "B",
+                "ac",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ba",
+            "ca",
+            "fa",
+            "fb",
+            "cc",
+            "dc",
+            "ec",
+            "ad",
+            "bd",
+            "ce"
+        ],
+        "AW": [
+            "ea",
+            "bb",
+            "cb",
+            "db",
+            "ac",
+            "bc"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "aa",
+                "Correct.",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "bb",
+            "cb",
+            "db",
+            "bc",
+            "bd"
+        ],
+        "AW": [
+            "eb",
+            "cc",
+            "dc",
+            "fc",
+            "be",
+            "ce",
+            "de"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "aa",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ea",
+            "eb",
+            "cc",
+            "dc",
+            "ec",
+            "bd",
+            "cd",
+            "bf"
+        ],
+        "AW": [
+            "da",
+            "bb",
+            "cb",
+            "db",
+            "ac",
+            "bc"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ba",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "da",
+            "bb",
+            "cb",
+            "db",
+            "ac",
+            "bc"
+        ],
+        "AW": [
+            "ba",
+            "eb",
+            "gb",
+            "cc",
+            "dc",
+            "ec",
+            "bd",
+            "cd",
+            "bf"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "aa",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ba",
+            "ca",
+            "fb",
+            "hb",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "bd",
+            "cd",
+            "bf"
+        ],
+        "AW": [
+            "ea",
+            "bb",
+            "cb",
+            "db",
+            "eb",
+            "ac",
+            "bc"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "aa",
+                "Correct.",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ba",
+            "eb",
+            "cc",
+            "dc",
+            "ec",
+            "cd",
+            "be",
+            "ce"
+        ],
+        "AW": [
+            "da",
+            "bb",
+            "cb",
+            "db",
+            "bc",
+            "ad",
+            "bd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ab",
+                "Correct.",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "aa",
+            "ba",
+            "ca",
+            "ab",
+            "eb",
+            "cc",
+            "dc",
+            "ec",
+            "cd",
+            "be",
+            "ce"
+        ],
+        "AW": [
+            "da",
+            "bb",
+            "cb",
+            "db",
+            "bc",
+            "ad",
+            "bd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ea",
+                "",
+                ""
+            ],
+            [
+                "B",
+                "ae",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "da",
+            "bb",
+            "cb",
+            "db",
+            "bc",
+            "ad",
+            "bd"
+        ],
+        "AW": [
+            "aa",
+            "ba",
+            "ca",
+            "ab",
+            "eb",
+            "cc",
+            "dc",
+            "ec",
+            "cd",
+            "be",
+            "ce"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ac",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ba",
+            "ca",
+            "eb",
+            "cc",
+            "dc",
+            "ec",
+            "cd",
+            "ae",
+            "be",
+            "ce"
+        ],
+        "AW": [
+            "da",
+            "bb",
+            "cb",
+            "db",
+            "bc",
+            "ad",
+            "bd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ab",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ab",
+            "eb",
+            "dc",
+            "ec",
+            "cd",
+            "be",
+            "ce"
+        ],
+        "AW": [
+            "da",
+            "cb",
+            "db",
+            "bc",
+            "cc",
+            "ad",
+            "bd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ba",
+                "Correct.",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ba",
+            "ca",
+            "fb",
+            "hb",
+            "dc",
+            "ec",
+            "fc",
+            "cd",
+            "ae",
+            "be",
+            "ce"
+        ],
+        "AW": [
+            "da",
+            "bb",
+            "db",
+            "eb",
+            "bc",
+            "cc",
+            "ad",
+            "bd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ab",
+                "Correct.",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ba",
+            "ea",
+            "cb",
+            "db",
+            "eb"
+        ],
+        "AW": [
+            "da",
+            "fb",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "ad",
+            "bd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ab",
+                "Correct.",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ea",
+            "cb",
+            "db",
+            "eb",
+            "ac"
+        ],
+        "AW": [
+            "aa",
+            "ca",
+            "da",
+            "fb",
+            "dc",
+            "ec",
+            "fc",
+            "ad",
+            "bd",
+            "cd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "bb",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "aa",
+            "ea",
+            "ab",
+            "cb",
+            "db",
+            "eb"
+        ],
+        "AW": [
+            "ba",
+            "da",
+            "fb",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "ad",
+            "bd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "bb",
+                "Correct.",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ca",
+            "ea",
+            "ab",
+            "cb",
+            "db",
+            "eb",
+            "bc",
+            "bd"
+        ],
+        "AW": [
+            "ba",
+            "bb",
+            "fb",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "ad",
+            "cd",
+            "ae",
+            "be",
+            "ce"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ac",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ca",
+            "fb",
+            "ec",
+            "gc",
+            "ad",
+            "bd",
+            "cd",
+            "dd"
+        ],
+        "AW": [
+            "ea",
+            "ab",
+            "cb",
+            "eb",
+            "ac",
+            "cc",
+            "dc"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ba",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ca",
+            "fa",
+            "fb",
+            "dc",
+            "ec",
+            "fc",
+            "cd",
+            "ae",
+            "be",
+            "ce"
+        ],
+        "AW": [
+            "ea",
+            "ab",
+            "cb",
+            "db",
+            "eb",
+            "ac",
+            "cc",
+            "bd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ba",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ab",
+            "bb",
+            "db",
+            "eb",
+            "cc",
+            "cd"
+        ],
+        "AW": [
+            "fa",
+            "cb",
+            "fb",
+            "dc",
+            "ec",
+            "fc",
+            "ad",
+            "dd",
+            "be",
+            "ce"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "ca",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ba",
+            "bb",
+            "cb",
+            "eb",
+            "fb",
+            "cc",
+            "ec",
+            "dd"
+        ],
+        "AW": [
+            "ab",
+            "gb",
+            "bc",
+            "fc",
+            "hc",
+            "bd",
+            "cd",
+            "ed",
+            "fd",
+            "de",
+            "cf"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Elementary",
+        "SOL": [
+            [
+                "B",
+                "da",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "BEG"
+    },
+    {
+        "AB": [
+            "ba",
+            "gb",
+            "hb",
+            "bc",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "be"
+        ],
+        "AW": [
+            "ga",
+            "ab",
+            "bb",
+            "cb",
+            "db",
+            "eb",
+            "fb"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "fa",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "hb",
+            "bc",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "gc",
+            "hc",
+            "be"
+        ],
+        "AW": [
+            "bb",
+            "cb",
+            "db",
+            "eb",
+            "fb",
+            "gb"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ab",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "db",
+            "bc",
+            "dc",
+            "ec",
+            "fc",
+            "bd",
+            "cd",
+            "dd",
+            "ed",
+            "ce",
+            "ee",
+            "df"
+        ],
+        "AW": [
+            "da",
+            "cb",
+            "eb",
+            "fb",
+            "hb",
+            "cc",
+            "gc",
+            "fd",
+            "be",
+            "fe",
+            "bf",
+            "ef",
+            "ff",
+            "cg",
+            "dg"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ba",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "bc",
+            "dc",
+            "ec",
+            "fc",
+            "gc",
+            "bd",
+            "cd",
+            "dd"
+        ],
+        "AW": [
+            "cb",
+            "eb",
+            "fb",
+            "gb",
+            "cc",
+            "hc",
+            "ed",
+            "fd",
+            "gd",
+            "hd",
+            "be",
+            "ce",
+            "de"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "db",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "fa",
+            "fb",
+            "dc",
+            "ec",
+            "gc",
+            "cd",
+            "be",
+            "de"
+        ],
+        "AW": [
+            "ea",
+            "cb",
+            "db",
+            "eb",
+            "ac",
+            "cc"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "bb",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "fa",
+            "fb",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "ad",
+            "bd"
+        ],
+        "AW": [
+            "ea",
+            "bb",
+            "cb",
+            "db",
+            "eb",
+            "ac"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ab",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "bb",
+            "cb",
+            "db",
+            "eb",
+            "bc"
+        ],
+        "AW": [
+            "fb",
+            "hb",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "bd",
+            "ce"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ea",
+                "",
+                ""
+            ],
+            [
+                "B",
+                "ba",
+                "Correct.",
+                ""
+            ],
+            [
+                "B",
+                "ac",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "ba",
+            "fb",
+            "hb",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "ad",
+            "bd",
+            "ce"
+        ],
+        "AW": [
+            "bb",
+            "cb",
+            "db",
+            "eb",
+            "ac",
+            "bc"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "aa",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "ba",
+            "ca",
+            "fa",
+            "fb",
+            "cc",
+            "dc",
+            "ec",
+            "ad",
+            "bd"
+        ],
+        "AW": [
+            "ea",
+            "bb",
+            "cb",
+            "db",
+            "ac",
+            "bc"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "aa",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "bb",
+            "cb",
+            "db",
+            "eb",
+            "fb",
+            "ac",
+            "bc"
+        ],
+        "AW": [
+            "ba",
+            "ca",
+            "fa",
+            "gb",
+            "hb",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "bd",
+            "cd",
+            "bf"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "aa",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "bb",
+            "cb",
+            "db",
+            "bc",
+            "bd"
+        ],
+        "AW": [
+            "eb",
+            "gb",
+            "cc",
+            "dc",
+            "ec",
+            "cd",
+            "be",
+            "ce",
+            "bg"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "aa",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "ea",
+            "fb",
+            "gb",
+            "cc",
+            "dc",
+            "ec",
+            "cd",
+            "be",
+            "ce",
+            "bg"
+        ],
+        "AW": [
+            "bb",
+            "cb",
+            "db",
+            "eb",
+            "bc",
+            "bd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "da",
+                "",
+                ""
+            ],
+            [
+                "B",
+                "ad",
+                "",
+                ""
+            ],
+            [
+                "B",
+                "aa",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "ea",
+            "eb",
+            "dc",
+            "ec",
+            "cd",
+            "be",
+            "ce"
+        ],
+        "AW": [
+            "da",
+            "bb",
+            "cb",
+            "db",
+            "bc",
+            "bd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ba",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "ea",
+            "bb",
+            "cb",
+            "db",
+            "eb",
+            "bc",
+            "bd"
+        ],
+        "AW": [
+            "ba",
+            "ca",
+            "fa",
+            "fb",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "cd",
+            "be",
+            "ce"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ad",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "ba",
+            "fb",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "ad",
+            "bd"
+        ],
+        "AW": [
+            "aa",
+            "ca",
+            "ea",
+            "ab",
+            "cb",
+            "db",
+            "eb"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "bb",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "aa",
+            "ea",
+            "ab",
+            "cb",
+            "db",
+            "eb",
+            "bc"
+        ],
+        "AW": [
+            "fb",
+            "ac",
+            "dc",
+            "ec",
+            "fc",
+            "ad",
+            "bd",
+            "cd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ca",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "ab",
+            "bb",
+            "cb",
+            "fb",
+            "gb",
+            "dc",
+            "fc"
+        ],
+        "AW": [
+            "da",
+            "fa",
+            "hb",
+            "ib",
+            "ac",
+            "bc",
+            "cc",
+            "gc",
+            "dd",
+            "fd",
+            "gd",
+            "ce"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "eb",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "fa",
+            "fb",
+            "gc",
+            "bd",
+            "cd",
+            "dd",
+            "ed",
+            "fd"
+        ],
+        "AW": [
+            "ba",
+            "bb",
+            "eb",
+            "bc",
+            "dc"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "da",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "ab",
+            "bb",
+            "db",
+            "fb",
+            "bc",
+            "dc",
+            "ec",
+            "bd",
+            "cd"
+        ],
+        "AW": [
+            "ba",
+            "ga",
+            "cb",
+            "gb",
+            "ac",
+            "fc",
+            "ad",
+            "dd",
+            "ed",
+            "fd",
+            "ae",
+            "be",
+            "ce"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "da",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "ca",
+            "bb",
+            "db",
+            "bc",
+            "dc",
+            "ad",
+            "bd"
+        ],
+        "AW": [
+            "da",
+            "ea",
+            "ab",
+            "eb",
+            "ec",
+            "dd",
+            "ed",
+            "ae",
+            "be",
+            "ce"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ac",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "ia",
+            "db",
+            "dc",
+            "fc",
+            "ic",
+            "jc",
+            "bd",
+            "dd",
+            "ed",
+            "id",
+            "he",
+            "ef",
+            "gf"
+        ],
+        "AW": [
+            "da",
+            "ab",
+            "bb",
+            "cb",
+            "eb",
+            "fb",
+            "ec",
+            "hc",
+            "fd",
+            "gd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "gb",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "ia",
+            "db",
+            "dc",
+            "fc",
+            "ic",
+            "jc",
+            "bd",
+            "dd",
+            "ed",
+            "id",
+            "he",
+            "ef",
+            "gf"
+        ],
+        "AW": [
+            "da",
+            "ga",
+            "ab",
+            "bb",
+            "cb",
+            "eb",
+            "ec",
+            "hc",
+            "fd",
+            "gd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "fa",
+                "",
+                ""
+            ],
+            [
+                "B",
+                "gb",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "ga",
+            "gb",
+            "ib",
+            "bc",
+            "gc",
+            "bd",
+            "cd",
+            "dd",
+            "ed",
+            "fd"
+        ],
+        "AW": [
+            "fa",
+            "ab",
+            "bb",
+            "cb",
+            "eb",
+            "fb",
+            "fc"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "db",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "eb",
+            "fb",
+            "ad",
+            "dd",
+            "ed",
+            "fd",
+            "af",
+            "bf",
+            "cf",
+            "df"
+        ],
+        "AW": [
+            "ba",
+            "ea",
+            "bb",
+            "cb",
+            "db",
+            "ac",
+            "cd",
+            "ce"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ab",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "eb",
+            "ec",
+            "dd",
+            "ee",
+            "af",
+            "bf",
+            "cf",
+            "df"
+        ],
+        "AW": [
+            "ba",
+            "bb",
+            "cb",
+            "db",
+            "cd",
+            "ce"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ad",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "eb",
+            "ec",
+            "hc",
+            "bd",
+            "ed",
+            "ee",
+            "bf",
+            "cf",
+            "df"
+        ],
+        "AW": [
+            "ba",
+            "da",
+            "bb",
+            "cb",
+            "db",
+            "dd",
+            "de"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ab",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "ab",
+            "eb",
+            "bc",
+            "cc",
+            "bd",
+            "be"
+        ],
+        "AW": [
+            "da",
+            "cb",
+            "dc",
+            "ec",
+            "cd",
+            "ce",
+            "bf",
+            "cf"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ba",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "da",
+            "fa",
+            "bb",
+            "db",
+            "eb",
+            "fb",
+            "cc"
+        ],
+        "AW": [
+            "cb",
+            "gb",
+            "bc",
+            "dc",
+            "ec",
+            "fc",
+            "gc",
+            "bd",
+            "dd"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ab",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "gb",
+            "bc",
+            "dc",
+            "fc",
+            "hc",
+            "bd",
+            "dd",
+            "fd",
+            "ee"
+        ],
+        "AW": [
+            "ab",
+            "bb",
+            "cb",
+            "db",
+            "fb",
+            "ec"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ba",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "gb",
+            "ib",
+            "gc",
+            "bd",
+            "cd",
+            "dd",
+            "ed",
+            "fd"
+        ],
+        "AW": [
+            "bb",
+            "cb",
+            "db",
+            "eb",
+            "fb"
+        ],
+        "SZ": "19",
+        "C": "Black to play: Intermediate",
+        "SOL": [
+            [
+                "B",
+                "ab",
+                "",
+                ""
+            ],
+            [
+                "B",
+                "fa",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "INT"
+    },
+    {
+        "AB": [
+            "mb",
+            "nd",
+            "od",
+            "of",
+            "qd",
+            "qe",
+            "re",
+            "sf",
+            "nb"
+        ],
+        "AW": [
+            "rc",
+            "qc",
+            "pc",
+            "ob",
+            "rf",
+            "rg",
+            "qh"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "sc",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "qc",
+            "pd",
+            "ja",
+            "jb",
+            "kc",
+            "kd",
+            "ld",
+            "md",
+            "nd",
+            "od",
+            "qa",
+            "qb"
+        ],
+        "AW": [
+            "pb",
+            "oc",
+            "nc",
+            "oa",
+            "mb",
+            "lc",
+            "kb",
+            "ka"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "pa",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "pc",
+            "pd",
+            "od",
+            "hb",
+            "ic",
+            "hd",
+            "jd",
+            "kd",
+            "me",
+            "ne",
+            "qb",
+            "pb"
+        ],
+        "AW": [
+            "ob",
+            "oc",
+            "nd",
+            "mc",
+            "lc",
+            "kc",
+            "kb",
+            "jb"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "oa",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "rc",
+            "qd",
+            "pd",
+            "od",
+            "of",
+            "jb",
+            "jc",
+            "kc",
+            "hb",
+            "ke",
+            "kf",
+            "me",
+            "mf",
+            "rb"
+        ],
+        "AW": [
+            "qb",
+            "pc",
+            "oc",
+            "md",
+            "ld",
+            "lb",
+            "kb"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "qa",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "pb",
+            "pc",
+            "od",
+            "nd",
+            "md",
+            "mc",
+            "ld",
+            "kd",
+            "id",
+            "hd",
+            "hb",
+            "ib",
+            "qb"
+        ],
+        "AW": [
+            "oa",
+            "ob",
+            "nc",
+            "mb",
+            "lc",
+            "kc",
+            "jc",
+            "jb"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "ma",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "qb",
+            "qc",
+            "pc",
+            "ja",
+            "ib",
+            "ic",
+            "jd",
+            "kd",
+            "ld",
+            "nd",
+            "md",
+            "od",
+            "qa"
+        ],
+        "AW": [
+            "pa",
+            "pb",
+            "oc",
+            "nb",
+            "mc",
+            "lc",
+            "la",
+            "jb",
+            "jc"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "ka",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "pb",
+            "pc",
+            "od",
+            "oe",
+            "ne",
+            "hb",
+            "ib",
+            "ic",
+            "jd",
+            "kd",
+            "ld",
+            "me",
+            "qb"
+        ],
+        "AW": [
+            "ob",
+            "oc",
+            "nd",
+            "mc",
+            "lc",
+            "kc",
+            "jb"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "oa",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "qb",
+            "qc",
+            "pd",
+            "pe",
+            "pf",
+            "of",
+            "hb",
+            "ib",
+            "jc",
+            "jd",
+            "kd",
+            "md",
+            "ld",
+            "ne",
+            "rb"
+        ],
+        "AW": [
+            "pb",
+            "pc",
+            "od",
+            "oe",
+            "nc",
+            "lc",
+            "kc",
+            "jb",
+            "ja"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "lb",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "sd",
+            "ib",
+            "jb",
+            "kc",
+            "jd",
+            "ke",
+            "md",
+            "me",
+            "ne",
+            "oe",
+            "pd",
+            "qe",
+            "re",
+            "rb"
+        ],
+        "AW": [
+            "qc",
+            "pc",
+            "nc",
+            "nd",
+            "mc",
+            "lb",
+            "kb"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "ka",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "qd",
+            "pd",
+            "hb",
+            "ib",
+            "ic",
+            "jd",
+            "je",
+            "le",
+            "lf",
+            "nf",
+            "oe",
+            "qb",
+            "pb"
+        ],
+        "AW": [
+            "ob",
+            "oc",
+            "nd",
+            "lc",
+            "kc",
+            "jb"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "ma",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "qd",
+            "od",
+            "nd",
+            "hb",
+            "gb",
+            "ic",
+            "id",
+            "jd",
+            "kd",
+            "ld",
+            "md",
+            "rb",
+            "qb",
+            "qc"
+        ],
+        "AW": [
+            "pb",
+            "oc",
+            "nc",
+            "lc",
+            "kc",
+            "jc",
+            "ib"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "na",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "cp",
+            "co",
+            "cn",
+            "dm",
+            "em",
+            "fm",
+            "gm",
+            "gn",
+            "ho",
+            "hp",
+            "hq",
+            "gq",
+            "gr",
+            "br",
+            "bq"
+        ],
+        "AW": [
+            "cr",
+            "cq",
+            "dp",
+            "do",
+            "en",
+            "fn",
+            "gp",
+            "fq",
+            "er",
+            "fs"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "cs",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "cd",
+            "dd",
+            "dc",
+            "db",
+            "da",
+            "de",
+            "ee",
+            "fd",
+            "fc",
+            "ec",
+            "be"
+        ],
+        "AW": [
+            "cc",
+            "cb",
+            "ce",
+            "cf",
+            "df",
+            "ef",
+            "ff",
+            "fe",
+            "gd",
+            "gc",
+            "fb",
+            "eb",
+            "ad",
+            "bd"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "bc",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "rp",
+            "sp",
+            "qo",
+            "po",
+            "oo",
+            "no",
+            "nq",
+            "or",
+            "qr",
+            "qq"
+        ],
+        "AW": [
+            "qp",
+            "pp",
+            "pq",
+            "pr",
+            "ps",
+            "ro",
+            "rq"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "sr",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "cd",
+            "ce",
+            "dd",
+            "ee",
+            "fe",
+            "gd",
+            "hd",
+            "ic",
+            "jb",
+            "jd",
+            "hb",
+            "cb",
+            "cc"
+        ],
+        "AW": [
+            "bb",
+            "db",
+            "dc",
+            "fd",
+            "gc",
+            "gb",
+            "ga",
+            "hc",
+            "ib",
+            "ia"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "da",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "np",
+            "nq",
+            "mn",
+            "nn",
+            "on",
+            "pn",
+            "po",
+            "pp",
+            "pq",
+            "qq",
+            "qr",
+            "mp"
+        ],
+        "AW": [
+            "oq",
+            "rs",
+            "rr",
+            "rq",
+            "qp",
+            "qo",
+            "qn",
+            "qm",
+            "pm",
+            "om",
+            "nm",
+            "mm",
+            "lm",
+            "ln",
+            "lo",
+            "lp",
+            "lq",
+            "mr",
+            "oo",
+            "op"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "ps",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "ad",
+            "bd",
+            "ce",
+            "bf",
+            "de",
+            "ee",
+            "ed",
+            "ec",
+            "fc",
+            "gb",
+            "ac",
+            "ba"
+        ],
+        "AW": [
+            "ab",
+            "ca",
+            "cb",
+            "cc",
+            "cd",
+            "bc",
+            "dd",
+            "eb",
+            "fd",
+            "gc",
+            "hc",
+            "hb"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "db",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "ro",
+            "qp",
+            "po",
+            "oo",
+            "np",
+            "nq",
+            "nr",
+            "ns",
+            "mq",
+            "sr",
+            "rq"
+        ],
+        "AW": [
+            "lr",
+            "lq",
+            "mo",
+            "no",
+            "lo",
+            "op",
+            "oq",
+            "or",
+            "qr",
+            "rr"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "pr",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "rq",
+            "ro",
+            "qr"
+        ],
+        "AW": [
+            "rp",
+            "pr",
+            "pp",
+            "op",
+            "nq",
+            "mr",
+            "sp"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "qp",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "lq",
+            "lp",
+            "nq",
+            "oq",
+            "pq",
+            "qq",
+            "mr",
+            "rr",
+            "rs",
+            "mo",
+            "mn",
+            "on",
+            "pn",
+            "qn",
+            "rn",
+            "mq"
+        ],
+        "AW": [
+            "sr",
+            "qr",
+            "rq",
+            "rp",
+            "qp",
+            "pp",
+            "op",
+            "np",
+            "mp",
+            "lo",
+            "kq",
+            "kp",
+            "ko",
+            "kr",
+            "lr",
+            "nr"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "qs",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "bc",
+            "dd",
+            "ce",
+            "ee",
+            "fe",
+            "gd",
+            "hd",
+            "hc",
+            "hb",
+            "ha",
+            "cc"
+        ],
+        "AW": [
+            "ec",
+            "ed",
+            "fd",
+            "gc",
+            "gb",
+            "ea",
+            "ga",
+            "dc"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "fb",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "rp",
+            "ro",
+            "qp",
+            "pp",
+            "op",
+            "np",
+            "nq",
+            "nr",
+            "ns",
+            "pr",
+            "rs",
+            "rq"
+        ],
+        "AW": [
+            "os",
+            "or",
+            "oq",
+            "pq",
+            "qq",
+            "ps",
+            "rr",
+            "sq"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "sp",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "fb",
+            "gb",
+            "hb",
+            "ic",
+            "id",
+            "hd",
+            "gd",
+            "fd",
+            "ed",
+            "dd",
+            "cd",
+            "bd",
+            "bf",
+            "da"
+        ],
+        "AW": [
+            "bc",
+            "ca",
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "gc",
+            "hc",
+            "bb"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "ac",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "db",
+            "da",
+            "gb",
+            "hc",
+            "ic",
+            "gd",
+            "ge",
+            "fe",
+            "ee",
+            "ce",
+            "be",
+            "bd",
+            "bf",
+            "cb"
+        ],
+        "AW": [
+            "ba",
+            "bb",
+            "bc",
+            "cc",
+            "cd",
+            "ad",
+            "ed",
+            "fd",
+            "fc",
+            "gc",
+            "ca"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "dc",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "np",
+            "no",
+            "on",
+            "pn",
+            "po",
+            "pp",
+            "pq",
+            "qq",
+            "qr",
+            "nq"
+        ],
+        "AW": [
+            "rq",
+            "qo",
+            "qp",
+            "qn",
+            "qm",
+            "pm",
+            "om",
+            "nn",
+            "mn",
+            "mo",
+            "mp",
+            "lq",
+            "mr",
+            "op",
+            "rr"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "ps",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "lq",
+            "lp",
+            "np",
+            "nq",
+            "op",
+            "pq",
+            "pr",
+            "ps",
+            "qq",
+            "rq",
+            "sq",
+            "lr"
+        ],
+        "AW": [
+            "qs",
+            "or",
+            "nr",
+            "mr",
+            "oq",
+            "pp",
+            "qp",
+            "rp",
+            "sp",
+            "pn",
+            "rr"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "rs",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "bc",
+            "bd",
+            "be",
+            "ce",
+            "de",
+            "ee",
+            "fe",
+            "fc",
+            "gc",
+            "hc",
+            "hb",
+            "ha",
+            "ab"
+        ],
+        "AW": [
+            "bb",
+            "cc",
+            "cd",
+            "dd",
+            "ec",
+            "fb",
+            "gb",
+            "ea",
+            "cb"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "db",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "rq",
+            "rp",
+            "rn",
+            "ro",
+            "qn",
+            "pn",
+            "mo",
+            "mq",
+            "pq",
+            "qr",
+            "rr"
+        ],
+        "AW": [
+            "pr",
+            "oq",
+            "op",
+            "oo",
+            "on",
+            "om",
+            "qm",
+            "pm",
+            "rm",
+            "sn",
+            "so",
+            "sr",
+            "qq",
+            "qp",
+            "qo"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "or",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "bd",
+            "cd",
+            "dd",
+            "ed",
+            "fd",
+            "gd",
+            "gc",
+            "gb",
+            "fb",
+            "cb"
+        ],
+        "AW": [
+            "cc",
+            "dc",
+            "ec",
+            "fc",
+            "eb",
+            "da",
+            "bc"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "ab",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    },
+    {
+        "AB": [
+            "bb",
+            "bc",
+            "cc",
+            "dc",
+            "cd",
+            "ed",
+            "ee",
+            "ef",
+            "df",
+            "fe",
+            "gd",
+            "gc",
+            "he",
+            "id",
+            "ib",
+            "ca"
+        ],
+        "AW": [
+            "ec",
+            "db",
+            "cb",
+            "fc",
+            "fd",
+            "gb",
+            "ge",
+            "gf",
+            "gg",
+            "eg",
+            "cg",
+            "bd",
+            "be",
+            "ce",
+            "de",
+            "dd"
+        ],
+        "SZ": "19",
+        "C": "Black to play",
+        "SOL": [
+            [
+                "B",
+                "fb",
+                "",
+                ""
+            ]
+        ],
+        "difficulty": "ADV"
+    }
+]
