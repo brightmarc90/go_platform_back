@@ -27,6 +27,8 @@ class Role_PermissionDetail(generics.RetrieveUpdateDestroyAPIView):
 
 @api_view(["POST"])
 def signup_user(request):
+    role = Role.objects.get(name = "Joueur")
+    request.data["role"] = role.id
     serializer = CustomUserSerializer(data=request.data)
     if serializer.is_valid():
         serializer.save()

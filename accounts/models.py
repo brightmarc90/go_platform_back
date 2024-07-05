@@ -42,8 +42,7 @@ class CustomUser(AbstractBaseUser, PermissionsMixin):
     username = models.CharField(max_length=128, null=False, unique=True)
     is_superuser = models.BooleanField(default=False, null=False)
     is_staff = models.BooleanField(default=False, null=False)
-    role_id = Role.objects.get(name = "Joueur")
-    role = models.ForeignKey(Role, on_delete=models.PROTECT, default=role_id.id) # un inscrit est par defaut un joueur
+    role = models.ForeignKey(Role, on_delete=models.PROTECT)
 
     objects = CustomUserManager()
 
