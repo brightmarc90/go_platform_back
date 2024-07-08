@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'accounts',
     'rest_framework',
     'rest_framework.authtoken',
-    'go_games'
+    'go_games',
+    'corsheaders'
 ]
 
 AUTH_USER_MODEL = 'accounts.CustomUser'
@@ -53,6 +54,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
 ]
 
 ROOT_URLCONF = 'go_platform_back.urls'
@@ -139,3 +141,5 @@ REST_FRAMEWORK = {
         'rest_framework.authentication.TokenAuthentication',
     ),
 }
+
+CORS_ALLOW_ALL_ORIGINS = True
