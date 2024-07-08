@@ -29,6 +29,8 @@ class Role_PermissionDetail(generics.RetrieveUpdateDestroyAPIView):
 def signup_user(request):
     role = Role.objects.get(name = "Joueur")
     request.data["role"] = role.id
+    request.data["username"] = request.data["username"].lower()
+    request.data["email"] = request.data["email"].lower()
     serializer = CustomUserSerializer(data=request.data)
     if serializer.is_valid():
         serializer.save()
@@ -41,12 +43,12 @@ def signup_user(request):
 
 @api_view(["POST"])
 def login_user(request):
-    user = get_object_or_404(CustomUser, username=request.data['username'])
+    user = get_object_or_404(CustomUser, username=request.data['username'].lower())
     if not user.check_password(request.data['password']):
         return Response({"detail": "Non trouvé"}, status=status.HTTP_400_BAD_REQUEST)
     token, created = Token.objects.get_or_create(user=user)
     serializer = CustomUserSerializer(user)
-    return Response({"token": token.key, "user": serializer.data})
+    return Response({"token": token.key, "user": serializer.data}, status=status.HTTP_200_OK)
 
 @api_view(["POST"])
 @permission_classes([IsAuthenticated])
