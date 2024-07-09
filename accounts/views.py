@@ -38,6 +38,7 @@ def signup_user(request):
         user.set_password(request.data['password'])
         user.save()
         token = Token.objects.create(user=user)
+        serializer = CustomUserListSerializer(user)
         return Response({"token": token.key, "user": serializer.data}, status=status.HTTP_201_CREATED)
     return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
@@ -47,7 +48,7 @@ def login_user(request):
     if not user.check_password(request.data['password']):
         return Response({"detail": "Non trouvé"}, status=status.HTTP_400_BAD_REQUEST)
     token, created = Token.objects.get_or_create(user=user)
-    serializer = CustomUserSerializer(user)
+    serializer = CustomUserListSerializer(user)
     return Response({"token": token.key, "user": serializer.data}, status=status.HTTP_200_OK)
 
 @api_view(["POST"])
@@ -62,7 +63,7 @@ def logout_user(request):
     
 class CustomUserList(generics.ListAPIView):
     queryset = CustomUser.objects.all().order_by('id') 
-    serializer_class = CustomUserSerializer
+    serializer_class = CustomUserListSerializer
 
 class CustomUserDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = CustomUser.objects.all()

@@ -15,9 +15,9 @@ class Command(BaseCommand):
         Tsumego.objects.all().delete()
 
         # Création des rôles par défaut
-        roles = ["Joueur", "Editeur", "Administrateur"]
+        roles = [{"name":"Joueur", "isAdmin": False}, {"name":"Editeur", "isAdmin": True}, {"name":"Administrateur", "isAdmin": True}]
         for role in roles:
-            Role.objects.create(name=role)
+            Role.objects.create(name=role["name"], is_admin=role["isAdmin"])
         # création des permissions par défaut
         tables = [
             {"name": "Role", "low_name": "role"},

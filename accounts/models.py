@@ -4,6 +4,7 @@ from django.contrib.auth.models import AbstractBaseUser, BaseUserManager, Permis
 # Create your models here.
 class Role(models.Model):
     name = models.CharField(max_length=64, null=False, unique=True)
+    is_admin = models.BooleanField(default=False)
     
     def __str__(self):
         return self.name
