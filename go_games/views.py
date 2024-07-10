@@ -5,7 +5,7 @@ from .serializers import *
 # Create your views here.
 
 class TsumegoList(generics.ListAPIView):
-    queryset = Tsumego.objects.all().order_by('id') 
+    queryset = Tsumego.objects.all().filter(status=True).order_by('id')
     serializer_class = TsumegoListSerializer
 
 class TsumegoCreate(generics.CreateAPIView):

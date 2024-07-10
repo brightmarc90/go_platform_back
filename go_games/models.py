@@ -40,7 +40,7 @@ class Difficulties(models.TextChoices):
 
 class Tsumego(models.Model):
     problem_desc = models.JSONField()
-    description = models.TextField(null=True)
+    description = models.TextField(null=True, default=models.SET_NULL)
     status = models.BooleanField(default=False) # brouillon ou publié
     difficulty = models.CharField(max_length=3, choices=Difficulties.choices, null=True)
     submitter = models.ForeignKey(CustomUser, on_delete=models.SET_NULL, null=True)
