@@ -23,6 +23,7 @@ cd go_plateform_back
 python -m venv venv
 ```
 **3-** Activez votre environnement de travail 
+
 sous Windows
 ```bash
 venv\Scripts\activate
@@ -37,6 +38,7 @@ pip install -r requirements.txt
 ```
 ## Configuration
 **1-** Créer une nouvelle base deonnée dans votre Mysql nommée: **``go_platform_db``** 
+
 **2-** Lancer les migration pour créer les tables de la base de données
 ```bash
 python manage.py migrate
