@@ -46,10 +46,11 @@ python manage.py migrate
 python manage.py seed_db
 ```
 ## Utilisation
-Pout lancer le projet exécutez la commande suivante
+Pour lancer le projet exécutez la commande suivante
 ```bash
 python manage.py runserver
 ```
+Pour accéder à la documentation des endpoints de l'API ajouter `/swagger` à l'url de base de l'API.
 ## Auteurs
 - **Marc AKPOTO-K** - [Github](https://github.com/brightmarc90)
 - **Jonathan MBAYA** - [Github](https://github.com/JonathanMbaya)
