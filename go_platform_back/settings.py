@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework.authtoken',
     'go_games',
-    'corsheaders'
+    'corsheaders',
+    'drf_yasg'
 ]
 
 AUTH_USER_MODEL = 'accounts.CustomUser'
