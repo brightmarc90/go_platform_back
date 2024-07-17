@@ -7,6 +7,7 @@ from rest_framework.permissions import IsAuthenticated
 from .models import *
 from .serializers import *
 from django.shortcuts import get_object_or_404
+from drf_yasg.utils import swagger_auto_schema
 
 # Create your views here.
 class RoleViewSet(viewsets.ModelViewSet):
@@ -16,7 +17,7 @@ class RoleViewSet(viewsets.ModelViewSet):
 class PermissionViewSet(viewsets.ModelViewSet):
     queryset = Permission.objects.all().order_by('id') 
     serializer_class = PermissionSerializer
-
+    
 class Role_PermissionList(generics.ListCreateAPIView):
     queryset = Role_Permission.objects.all().order_by('id') 
     serializer_class = RolePemissionSerializer
@@ -25,6 +26,12 @@ class Role_PermissionDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Role_Permission.objects.all()
     serializer_class = RolePemissionSerializer
 
+@swagger_auto_schema(
+    methods=['post'],
+    operation_description="Créer ou inscrire un nouvel utilisateur",
+    request_body=CustomUserSerializer,
+    responses={201: CustomUserListSerializer},
+)
 @api_view(["POST"])
 def signup_user(request):
     role = Role.objects.get(name = "Joueur")
@@ -42,6 +49,11 @@ def signup_user(request):
         return Response({"token": token.key, "user": serializer.data}, status=status.HTTP_201_CREATED)
     return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
+@swagger_auto_schema(
+    methods=['post'],
+    operation_description="Authentifier un utilisateur",
+    responses={200: CustomUserListSerializer},
+)
 @api_view(["POST"])
 def login_user(request):
     user = get_object_or_404(CustomUser, username=request.data['username'].lower())
@@ -51,6 +63,11 @@ def login_user(request):
     serializer = CustomUserListSerializer(user)
     return Response({"token": token.key, "user": serializer.data}, status=status.HTTP_200_OK)
 
+@swagger_auto_schema(
+    methods=['post'],
+    operation_description="Déconnecter un utilisateur",
+    responses={200: "No content"},
+)
 @api_view(["POST"])
 @permission_classes([IsAuthenticated])
 def logout_user(request):
